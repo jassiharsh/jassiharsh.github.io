@@ -7,6 +7,6 @@ categories: Python
 
 Most Python cheatsheet from Arianne Colton and Sean Chen.
 
-![Python Image 1](../imgs/python-1.png)
+![Python Image 1](https://raw.githubusercontent.com/jassiharsh/jassiharsh.github.io/master/imgs/python-1.png)
 
-![Python Image 1](../imgs/python-2.png)
+![Python Image 2](https://raw.githubusercontent.com/jassiharsh/jassiharsh.github.io/master/imgs/python-2.png)
