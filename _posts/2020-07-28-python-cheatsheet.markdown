@@ -5,7 +5,7 @@ date:   2020-07-28 21:03:36 +0530
 categories: Python
 ---
 
-Most Python cheatsheet from Arianne Colton and Sean Chen.
+Most useful Python cheatsheet from Arianne Colton and Sean Chen. I reference this when I am working on python projects.
 
 ![Python Image 1](https://raw.githubusercontent.com/jassiharsh/jassiharsh.github.io/master/imgs/python-1.png)
 
