@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "TCP/IP and OSI Models"
+date:   2020-07-28 21:03:36 +0530
+categories: Networking
+---
+
+Important information about the Open Source Interconnect (OSI) model and Transmission Control Protocol (TCP)/Internet Protocol (IP).
+
+![Python Image 1](https://raw.githubusercontent.com/jassiharsh/jassiharsh.github.io/master/imgs/seven-layers-of-OSI-model.png)
+
+![Python Image 1](https://raw.githubusercontent.com/jassiharsh/jassiharsh.github.io/master/imgs/comparison-of-OSI-and-TCPIP.png)
