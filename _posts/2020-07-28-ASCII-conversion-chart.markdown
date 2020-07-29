@@ -7,4 +7,4 @@ categories: Python
 
 Great reference on Decimal - Binary - Octal - Hex - ASCII Conversion Chart.
 
-![Python Image 1](https://raw.githubusercontent.com/jassiharsh/jassiharsh.github.io/master/imgs/python-1.png)
+![ASCII Conversion Chart](https://raw.githubusercontent.com/jassiharsh/jassiharsh.github.io/master/imgs/ASCII-Conversion-Chart.png)
