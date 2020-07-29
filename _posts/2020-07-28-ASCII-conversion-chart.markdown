@@ -2,7 +2,7 @@
 layout: post
 title:  "ASCII Conversion Chart"
 date:   2020-07-28 21:03:36 +0530
-categories: Python
+categories: ASCII
 ---
 
 Great reference on Decimal - Binary - Octal - Hex - ASCII Conversion Chart.
