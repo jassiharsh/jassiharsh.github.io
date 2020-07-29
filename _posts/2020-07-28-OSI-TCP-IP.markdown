@@ -1,12 +1,25 @@
 ---
 layout: post
-title:  "TCP/IP and OSI Models"
+title:  "TCP/IP, OSI Models, TCP vs UDP"
 date:   2020-07-28 21:03:36 +0530
 categories: Networking
 ---
 
 Important information about the Open Source Interconnect (OSI) model and Transmission Control Protocol (TCP)/Internet Protocol (IP).
 
-![Python Image 1](https://raw.githubusercontent.com/jassiharsh/jassiharsh.github.io/master/imgs/seven-layers-of-OSI-model.png)
+## TCP/IP, OSI Models
 
-![Python Image 1](https://raw.githubusercontent.com/jassiharsh/jassiharsh.github.io/master/imgs/comparison-of-OSI-and-TCPIP.png)
+![TCP/IP and OSI Models 1](https://raw.githubusercontent.com/jassiharsh/jassiharsh.github.io/master/imgs/seven-layers-of-OSI-model.png)
+
+![TCP/IP and OSI Models 2](https://raw.githubusercontent.com/jassiharsh/jassiharsh.github.io/master/imgs/comparison-of-OSI-and-TCPIP.png)
+
+![TCP/IP and OSI Models 3](https://raw.githubusercontent.com/jassiharsh/jassiharsh.github.io/master/imgs/tcpip_5_layer_overview.png)
+
+![TCP/IP and OSI Models 4](https://raw.githubusercontent.com/jassiharsh/jassiharsh.github.io/master/imgs/transmit_data.png)
+
+
+## TCP vs UDP
+
+Some applications require reliable ordered delivery of packets. The TCP protocol provides this capability. It uses error detection, retransmissions and acknowledgements. This protocol cares about your data.
+
+![TCP vs UDP](https://raw.githubusercontent.com/jassiharsh/jassiharsh.github.io/master/imgs/TCP_vs_UDP.png)
