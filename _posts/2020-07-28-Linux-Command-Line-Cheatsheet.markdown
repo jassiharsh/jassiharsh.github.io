@@ -8,7 +8,7 @@ categories: Linux
 Useful Linux Command Line cheatsheet.
 
 ## System Information
-
+---
 ### Display Linux system information
 `uname -a`
 
@@ -43,7 +43,7 @@ Useful Linux Command Line cheatsheet.
 `whoami`
 
 ## Directory Navigation
-
+---
 ### To go up one level of the directory tree.  (Change into the parent directory.)
 `cd ..`
 
@@ -55,7 +55,7 @@ Useful Linux Command Line cheatsheet.
 
 
 ## File and Directory Commands
-
+---
 ### List all files in a long listing (detailed) format
 `ls -al`
 
@@ -108,7 +108,7 @@ Useful Linux Command Line cheatsheet.
 `tail -f file`
 
 ## Search
-
+---
 ### Search for pattern in file
 `grep pattern file`
 
@@ -125,7 +125,7 @@ Useful Linux Command Line cheatsheet.
 `find /home -size +100M`
 
 ## SSH Logins
-
+---
 ### Connect to host as your local username.
 `ssh host`
 
@@ -136,7 +136,7 @@ Useful Linux Command Line cheatsheet.
 `ssh -p port user@host`
 
 ## File Permissions
-
+---
 ![linux-permissions-chart](https://raw.githubusercontent.com/jassiharsh/jassiharsh.github.io/master/imgs/linux-permissions-chart.png)
 
         PERMISSION      EXAMPLE
@@ -161,7 +161,7 @@ Useful Linux Command Line cheatsheet.
         - = no access
 
 ## File Transfers
-
+---
 ### Secure copy file.txt to the /tmp folder on server
 `scp file.txt server:/tmp`
 
@@ -177,8 +177,8 @@ Useful Linux Command Line cheatsheet.
 ### Synchronize files/directories between the local and remote system with compression enabled
 `rsync -avz /home server:/backups/`
 
-## ARCHIVES (TAR FILES)
-
+## Archives (.tar files)
+---
 ### Create tar named archive.tar containing directory.
 `tar cf archive.tar directory`
 
@@ -198,7 +198,7 @@ Useful Linux Command Line cheatsheet.
 `tar xjf archive.tar.bz2`
 
 ## Disk Usage
-
+---
 ### Show free and used space on mounted filesystems
 `df -h`
 
@@ -214,10 +214,10 @@ Useful Linux Command Line cheatsheet.
 ### Display total disk usage off the current directory
 `du -sh`
 
-## Process Management
-
+## **Process Management**
+---
 ### Display your currently running processes
-`ps
+`ps`
 
 ### Display all the currently running processes on the system.
 `ps -ef`
