@@ -5,7 +5,21 @@ date:   2020-07-28 21:03:36 +0530
 categories: Linux
 ---
 
+
 Useful Linux Command Line cheatsheet.
+
+# Topics
+---
+1. [System Information](#system-information)
+2. [Directory Navigation](#directory-navigation)
+3. [File and Directory Commands](#file-and-directory-commands)
+4. [Search](#search)
+5. [SSH Logins](#ssh-logins)
+6. [File Permissions](#file-permissions)
+7. [File Transfers](#file-transfers)
+8. [Archives tar file](#archives-tar-file)
+9. [Disk Usage](#disk-usage)
+10. [Process Management](#process-management) 
 
 ## System Information
 ---
@@ -177,7 +191,7 @@ Useful Linux Command Line cheatsheet.
 ### Synchronize files/directories between the local and remote system with compression enabled
 `rsync -avz /home server:/backups/`
 
-## Archives (.tar files)
+## Archives tar file
 ---
 ### Create tar named archive.tar containing directory.
 `tar cf archive.tar directory`
@@ -214,7 +228,7 @@ Useful Linux Command Line cheatsheet.
 ### Display total disk usage off the current directory
 `du -sh`
 
-## **Process Management**
+## Process Management
 ---
 ### Display your currently running processes
 `ps`
