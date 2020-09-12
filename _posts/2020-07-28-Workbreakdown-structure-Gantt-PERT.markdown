@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Managing Systems Design Projects - Work Breakdown Structure, Gantt and PERT/CPM charts"
+title:  "Managing Systems Design Projects - WBS, Gantt and PERT/CPM charts"
 date:   2020-09-10 21:03:36 +0530
 categories: Python
 ---
