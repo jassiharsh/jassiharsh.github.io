@@ -22,4 +22,4 @@ Important information about the Open Source Interconnect (OSI) model and Transmi
 
 Some applications require reliable ordered delivery of packets. The TCP protocol provides this capability. It uses error detection, retransmissions and acknowledgements. This protocol cares about your data.
 
-![TCP vs UDP](https://raw.githubusercontent.com/jassiharsh/jassiharsh.github.io/master/imgs/TCP_vs_UDP.png)
+![TCP vs UDP](https://raw.githubusercontent.com/jassiharsh/jassiharsh.github.io/master/imgs/TCP_vs_UDP.png), 
