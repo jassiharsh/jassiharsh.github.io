@@ -5,6 +5,8 @@ date:   2020-09-10 21:03:36 +0530
 categories: Systems Design
 ---
 
+Work breakdown structure is an important process and in this post I will talk about what it is, it's importance, and charts used for managing systems design projects.
+
 ### What is a work breakdown structure? How do you create one?
 
 Work breakdown structure is a process of breaking down a complex or large project into a number of small tasks. Each smaller task is assigned to a group of people in the company. Project Managers uses this work breakdown structure for simplifying the project and completing it in the less time frame. Work breakdown structure can be created by methods using Gantt chart or the PERT/CPM.
