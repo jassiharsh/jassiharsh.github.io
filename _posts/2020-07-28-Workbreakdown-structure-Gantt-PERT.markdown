@@ -2,7 +2,7 @@
 layout: post
 title:  "Managing Systems Design Projects - WBS, Gantt and PERT/CPM charts"
 date:   2020-09-10 21:03:36 +0530
-categories: Python
+categories: Systems Design
 ---
 
 ### What is a work breakdown structure? How do you create one?
