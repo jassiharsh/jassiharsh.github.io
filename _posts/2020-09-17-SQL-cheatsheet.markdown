@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "MySQL Command Cheatsheet"
-date:   2020-09-15 21:03:36 +0530
+date:   2020-09-17 21:03:36 +0530
 categories: SQL
 ---
 

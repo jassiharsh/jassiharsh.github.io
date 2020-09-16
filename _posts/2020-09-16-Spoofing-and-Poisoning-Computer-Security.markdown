@@ -5,6 +5,8 @@ date:   2020-09-16 21:03:36 +0530
 categories: Computer Security
 ---
 
+I will explain spoofing and poisoning from computer security in this post. 
+
 Spoofing by definition means to hoax or trick someone.  Spoofing attacks using technology has been around for decades. One of the earliest methods of electronic spoofing began in the early 1990s. This method involved telephones and changing caller IDs to scam people. Caller ID spoofing is still a problem today but this technique has made its way on to the Internet and has become one of the most common attack methods used today. Spoofing on the Internet is used to either redirect traffic to another location or hide the source of packets.  The three common methods of spoofing are IP spoofing, MAC spoofing, and ARP spoofing. 
 
 IP spoofing involves changing the IP information within a packet. A primary use of IP spoofing is to hide the source of the network packet. Using fake originating IP addresses an attacker can use this method in a DDoS attack or redirect responses to a victim. 
