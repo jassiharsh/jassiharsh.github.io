@@ -5,6 +5,8 @@ date:   2020-09-13 21:03:36 +0530
 categories: Writing
 ---
 
+I read the chapter, Lessons from the History of Internet, from Mauel Castell's book and learned about the many events that led to rise of World Wide Web or WWW.
+
 From the book “The Internet of Galaxy” by Manual Castells, in the chapter, Lessons from the History of Internet, Castells talks about the explanation of the events that led to the invention of the internet. Castells explains how people who were involved in expanding the internet were able to “transcend institutional goals, overcome bureaucratic barriers and subvert established values in the process of ushering in a new world.” (Castells, page 9)
 
 This chapter focuses on the lessons from building the ARPANET in the 1960s to the outbreak of the worldwide network in the 1990s. This chapter talks about the historical production of technology and how far it expanded in time from the beginning. It also provides the summary of events that led to the foundation of the internet from its original form ARPANET to global network and from global network to user friendly by world wide web. Castells talks about the major event that enhanced the internet into presence was the unlikely intersection of Military research, science and libertarian culture. Castells explains how the internet was established in a mission-oriented research environment where the United states wanted to have control over Soviet Union during the Cold War.
